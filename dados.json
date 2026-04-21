@@ -1,0 +1,16 @@
+[
+    {
+        "nome": "arroz",
+        "umidade": 60.0,
+        "ph": 7.0,
+        "nutrientes": 3,
+        "irrigacao": "DESLIGADA"
+    },
+    {
+        "nome": "feij\u00e3o",
+        "umidade": 40.0,
+        "ph": 3.0,
+        "nutrientes": 2,
+        "irrigacao": "DESLIGADA"
+    }
+]
